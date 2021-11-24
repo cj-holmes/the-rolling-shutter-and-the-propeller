@@ -101,7 +101,7 @@ for(i in 1:nrow(d)){
 }
 ```
 
-<img src="out/out.gif" width="50%" />
+<img src="out/out.gif" width="60%" />
 
 As an aside - I wanted to see if I could convert the image to a polygon
 by buffering all of the linestrings
